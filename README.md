@@ -273,9 +273,7 @@ This CNN-based system:
 
 ---
 
-## 🎓 Academic Presentation Summary
-
-> *"We developed a Convolutional Neural Network using TensorFlow and Keras to classify images into Fire or No Fire categories. The model was trained on the NASA Space Apps Challenge Fire Detection dataset and deployed as a live web application using Streamlit, achieving 96.57% test accuracy with sub-second inference time."*
+ "We developed a Convolutional Neural Network using TensorFlow and Keras to classify images into Fire or No Fire categories. The model was trained on the NASA Space Apps Challenge Fire Detection dataset and deployed as a live web application using Streamlit, achieving 96.57% test accuracy with sub-second inference time."
 
 ---
 
