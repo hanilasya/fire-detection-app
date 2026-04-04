@@ -10,7 +10,7 @@ st.set_page_config(page_title="Fire Detection App", page_icon="🔥", layout="ce
 # Load model (cached)
 @st.cache_resource
 def load_fire_model():
-    return load_model('model/fire_smoke_model.h5')
+    return load_model('model/fire_smoke_model.h5', compile=False)
 
 model = load_fire_model()
 
