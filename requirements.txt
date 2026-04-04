@@ -1,7 +1,7 @@
 tensorflow-cpu==2.15.0
-streamlit>=1.28.0
-opencv-python-headless==4.8.1.78
-numpy==1.24.3
+streamlit
+opencv-python-headless
+numpy
 matplotlib
 scikit-learn
 Pillow
