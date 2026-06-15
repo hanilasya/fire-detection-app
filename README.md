@@ -279,5 +279,5 @@ This CNN-based system:
 
 ## 👨‍💻 Author
 
-**Satya Prakash**
-- GitHub: [@satyaprakash-22](https://github.com/satyaprakash-22)
+**Hanilasya**
+- GitHub: [hanilasya](https://github.com/hanilasya)
